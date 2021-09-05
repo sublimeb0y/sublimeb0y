@@ -9,8 +9,8 @@ Hi! Welcome to my GitHub, im learning code right now so im gonna post my attempt
  
   
   <a href="https://github.com/sublimeb0y"></a>
-  <img allign="center" img height="158em" src="https://github-readme-stats.vercel.app/api?username=sublimeb0y&show_icons=true&theme=shades-of-purple&include_all_commits=true&count_private=true"/>
-  <img allign="center" img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sublimeb0y&layout=compact&langs_count=7&theme=shades-of-purple"/>
+  <img align="center" height="158em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M-its&show_icons=true&theme=shades-of-purple"/>
+  <img align="center" height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-its&layout=compact&langs_count=8&theme=shades-of-purple"/>
 
   
   <div style="display: inline_block"><br>
