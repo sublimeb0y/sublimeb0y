@@ -4,8 +4,7 @@ Hi! Welcome to my GitHub, im learning code right now so im gonna post my attempt
  - 🤔 I’m looking for help with improve my coding and lifeskills;
  - 💬 Ask me about anything;
  - 📫 How to reach me: <a href="mailto:mateusleitaoelpidio@gmail.com">Gmail</a>;
- - 😄 Pronouns: im cisgender, call me by "he";
- - ⚡ Fun fact: idk if its fun but i love macbook and i dont even have a mac lol;
+ 
  
   
   <a href="https://github.com/sublimeb0y"></a>
