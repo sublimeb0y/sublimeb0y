@@ -18,4 +18,4 @@ Hi! Welcome to my GitHub, im learning code right now so im gonna post my attempt
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 
 
-  ![Snake animation](https://github.com/sublimeb0y/sublimeb0y/blob/output/github-contribution-grid-snake.svg)</div>
+  ![Snake animation](https://github.com/mateusleitao/mateusleitao/blob/output/github-contribution-grid-snake.svg)</div>
