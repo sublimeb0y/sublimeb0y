@@ -8,8 +8,8 @@ Hi! Welcome to my GitHub, im learning code right now so im gonna post my attempt
  
   
   <a href="https://github.com/mateusleitao"></a>
-  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M-its&show_icons=true&theme=shades-of-purple"/>
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-its&layout=compact&langs_count=8&theme=shades-of-purple"/>
+  <img align="center" height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mateusleitao&show_icons=true&theme=shades-of-purple"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusleitao&layout=compact&langs_count=8&theme=shades-of-purple"/>
 
   
   <div style="display: inline_block"><br>
