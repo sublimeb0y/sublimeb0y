@@ -1,6 +1,6 @@
 Hi! Welcome to my GitHub, im learning code right now so im gonna post my attempts here :) hf.
 
- - I’m currently learning coding for web (HTML5, CSS3, JS)
+ - I’m currently learning coding (JS, Dart)
  - 🤔 I’m looking for help with improve my coding and lifeskills;
  - 💬 Ask me about anything;
  - 📫 How to reach me: <a href="mailto:mateusleitaoelpidio@gmail.com">Gmail</a>;
