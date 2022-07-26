@@ -10,7 +10,7 @@ Hi! Welcome to my GitHub, im learning code right now so im gonna post my attempt
   <img align="center" height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mateusleitao&show_icons=true&theme=shades-of-purple" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusleitao&layout=compact&hide=makefile,cmake,c%2B%2B&theme=shades-of-purple" />
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusleitao&layout=compact&hide=makefile,sass, html,css,cmake,c%2B%2B&theme=shades-of-purple" />
 </a>
 
   
